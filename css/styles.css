@@ -44,7 +44,7 @@ h3 {
     font-style: normal;
 }
 div{
-    height: 152px;
+    height: 80px;
 }
 footer{
     font-family: 'Times New Roman', Times, serif;
@@ -57,4 +57,7 @@ footer{
     font-size: 20px;
     line-height: 40px;
 
+}
+.linkedin{
+    color:black;
 }
